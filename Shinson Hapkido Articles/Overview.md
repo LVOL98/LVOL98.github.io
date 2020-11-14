@@ -1,5 +1,9 @@
-# Overview of articles
+# A collections of articles about SSH
 
-## A sub section
+## Who Am I?
 
-[A link to a dud article, this would be it's title](https://github.com/LVOL98/LVOL98.github.io/blob/SSHArticlesSetup/Shinson%20Hapkido%20Articles/Dud/Dud.md)
+## 'But why though'
+
+## To come
+
+Currently I'm writing the articles and none is done at the moment, but once they're eventually done, they will be linked below sorted into various topics
