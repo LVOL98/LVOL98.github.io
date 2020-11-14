@@ -2,8 +2,6 @@
 
 Hi and welcome to my 'website'. The reason for the quotation marks is that the website is hosted on github, as this is also the website I use to show various coding stuff. For non developers don't worry, you won't be able to feel a difference
 
-## Different sites
-
 ## Business Card
 
 Description: A draft release is out [here](https://lvol98.github.io/business_card/#/), but it's still a work in progress
