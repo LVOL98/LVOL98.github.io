@@ -8,38 +8,35 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: TBA
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: TBA
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  TBA
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
 
-author: your_full_name                  # change to your full name
+author: Lukas Vinther Offenberg Larsen
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/me.jpg
 
 github:
-  username: github_username             # change to your github username
+  username: LVOL98
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: LVOL_
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Lukas Vinther Offenberg Larsen
+  email: Lukas98@live.dk
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
+    - https://twitter.com/LVOL_
+    - https://github.com/LVOL98
+    - https://www.linkedin.com/in/lukas-vinther-offenberg-7818a3125/
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
