@@ -24,6 +24,11 @@
   url: archives
   icon: "fas fa-archive"
 -
+  name: "Business Card"
+  path: tabs
+  icon: "fas fa-info"
+  url: "businessCard"
+-
   name: "About"
   icon: "fas fa-info"
   path: tabs
