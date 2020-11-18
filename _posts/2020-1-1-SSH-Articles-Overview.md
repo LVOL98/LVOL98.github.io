@@ -2,7 +2,7 @@
 title: Overview Of Articles About Shinson Hapkidp
 Author: Lukas Vinther Offenberg Larsen
 categories: [Shinson Hapkido]
-tags: [Overview, introduction, Shinson Hapkido, SSH]
+tags: [Overview, Introduction, Shinson Hapkido, SSH]
 Math: true
 ---
 
@@ -28,11 +28,11 @@ Currently I'm writing the articles and none is done at the moment, but once they
 
 ## Abbreviations
 
-[SSH]: Shinson Hapkido
+\[SSH\]: Shinson Hapkido
 
 ## Definitions
 
-[Github]: Is a versioning tool for software development. It common comparison is to google docs, but with a log to see who made which changes
+\[Github\]: Is a versioning tool for software development. It common comparison is to google docs, but with a log to see who made which changes
 
 ## Versioning
 
