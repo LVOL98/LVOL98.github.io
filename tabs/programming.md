@@ -1,7 +1,7 @@
 ---
-title: Business Card and Programming Showcase
+title: Programming
 
-# The About page
+# The page about programming
 # Lukas Vinther Offenberg Larsen
 # v1.0
 # 2020-11-17
