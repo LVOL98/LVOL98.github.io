@@ -1,10 +1,9 @@
 ---
-title: Blob Page
+title: Overview Of Articles About Shinson Hapkidp
 Author: Lukas Vinther Offenberg Larsen
-categories: [Tests, blobs]
-tags: [unidentified]
+categories: [Shinson Hapkido]
+tags: [Overview, introduction, Shinson Hapkido, SSH]
 Math: true
-image: /assets/img/stock/tree_blob.jpg
 ---
 
 # A collections of articles about SSH
