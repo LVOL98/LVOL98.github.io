@@ -24,8 +24,6 @@ On the off chance that someone finds these articles and wants to get in contact 
 
 Currently I'm writing the articles and none is done at the moment, but once they're eventually done, they will be linked below sorted into various topics
 
-<!-- Abbreviations -->
-
 ## Abbreviations
 
 \[SSH\]: Shinson Hapkido
