@@ -8,9 +8,13 @@ Math: true
 
 # Importance of modularity <br /> A methodology of learning complex martial arts movement
 
-TODO: a short introduction
+## TODOS
 
-## Initial Drafts (Sections)
+LINK
+
+## Introduction
+
+TODO: a short introduction
 
 ## Overview
 
@@ -28,13 +32,11 @@ This quote can be interpreted to put emphasis on the superiority of the holistic
 
 > "Our ego exists by separating, dividing and judging. Thus we create the world of opposites (**Um and Yang**) where we live" [^3]
 
-While this though is important (especially later in the learning process) it does have a tendency to be more dominant than the 'western analytical thinking'. The fallacies connected to the previous quote will not be elaborated on here, but rather in another article (LINK: will be here). Though I (the author) will be biased for a more 'western analytical' approach, I do appreciate and understand the importance of a holistic methodology, as will be apparent later in this article
+Which again emphasizes that we should rather see the whole rather than the subparts, fx. rather than seeing plants and animals we should see them all as living beings. While this though is important (especially later in the learning process) it does have a tendency to be more dominant than the 'western analytical thinking'. The fallacies connected to the previous quote will not be elaborated on here, but rather in another article (LINK: will be here). Though I (the author) will be biased for a more 'western analytical' approach, I do appreciate and understand the importance of a holistic methodology, as will be apparent later in this article
 
 The takeaway in this short discussion is that the focus of learning leans towards the holistic total view of the techniques and learning them. Instead this article will argue that the focus in the start should lean towards a breakdown of techniques to further the understanding, and later on once the sub techniques should be put together to a whole the holistic focus returns, and comes more naturally (TODO: claim not supported)
 
 Before heading into the essence of the article, a short overview of the proposed way of learning from the Kyosanim curriculum and the 2. Dan curriculum will be given, with a focus on where these principles can be applicable
-
-<div style="page-break-after: always"></div>
 
 ## NOTES
 
@@ -75,3 +77,7 @@ Focus will be on 1-4, the fifth has little to do with the technique at hand
 [^2]: TODO
 
 [^3]: Official Curriculum to 2. Dan (danish translation) - 1989 - Ko Myong - International Shinson Hapkido Association e.V., edition Feb. 2020, page 12
+
+## Versioning
+
+V0.1 Initial Draft
