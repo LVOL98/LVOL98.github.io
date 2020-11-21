@@ -66,16 +66,42 @@ The next chapter will try to show a methodology that will hopefully make this le
 
 ## The Methodology, Learning by subdivision
 
+Let's start by expressing it in algorithmic terms and then in a more understandable way
 
-## NOTES
-
-### Testing
-
-In software engineering/development the old goal of testing is
-
-> "To break the program"
-
-Summary: focus on edge cases and all possible movements/actions, not to find the right and wrongs, but to find the strength and more important the weakness of all movements
+```python
+Decomposit the movement(legs, hands):
+    What does the legs do:
+        Initial stance
+        What leg moves
+        if (leg crosses other leg):
+            Does it cross in front of
+            Does it cross behind
+        # Note: rotations are dealt with later
+        
+    What does the hands do:
+        Initial positions
+        Which hand moves
+        if (hand crosses other hand):
+            Does it cross in front of
+            Does it cross behind
+            Does it cross over
+            Does it cross under
+        if (hand touches opponent):
+            if (block):
+                Does it grab:
+                    Inside or outside
+                Does it push/pull:
+                    Away or up or down
+    
+Perform the technique(Decomposition of the movement):
+    Do leg movement
+    Do hand movement
+    if (rotation):
+        if (legs crossed):
+            Turn until legs are uncrossed
+        if (legs not crossed):
+            Turn head to the given direction
+```
 
 ## Abbreviations
 
@@ -96,3 +122,14 @@ Summary: focus on edge cases and all possible movements/actions, not to find the
 ## Versioning
 
 V0.1 Initial Draft
+
+
+## NOTES
+
+### Testing
+
+In software engineering/development the old goal of testing is
+
+> "To break the program"
+
+Summary: focus on edge cases and all possible movements/actions, not to find the right and wrongs, but to find the strength and more important the weakness of all movements
