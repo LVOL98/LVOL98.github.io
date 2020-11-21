@@ -10,7 +10,7 @@ Math: true
 
 ## Who Am I?
 
-We are all good at talking about ourself which often becomes boring and is completely irrelevant to the subject at hand. Hence this section will be rather short and to the point
+We are all good at talking about ourselves which often becomes boring and is completely irrelevant to the subject at hand. Hence this section will be rather short and to the point
 
 The author (me) is a second degree black belt (2. Dan) in the martial art of Shinson Hapkido (__*SSH*__), and have been a practitioner since childhood (to be honest I've lost track)
 
