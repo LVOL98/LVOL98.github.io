@@ -64,7 +64,9 @@ Focus will be on 1-4, the fifth has little to do with the technique at hand
 
 \[SSH\]: TODO
 
-<!-- Definitions -->
+## Definitions
+
+\[Kyosanim\]: Official Shinson Hapkido teacher with license
 
 ## References
 
