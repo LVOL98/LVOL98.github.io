@@ -60,11 +60,13 @@ TOOD: translation to normal language
 
 Focus will be on 1-4, the fifth has little to do with the technique at hand
 
-<!-- Abbreviations -->
+## Abbreviations
 
-*[SSH]: TODO
+\[SSH\]: TODO
 
-<!-- Footnotes -->
+<!-- Definitions -->
+
+## References
 
 [^1]: Official Curriculum to 2. Dan (danish translation) - 1989 - Ko Myong - International Shinson Hapkido Association e.V., edition Feb. 2020, page 45
 
