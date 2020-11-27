@@ -27,7 +27,7 @@
   name: "Programming"
   path: tabs
   icon: "fas fa-cog"
-  url: "Programming"
+  url: "programming"
 -
   name: "About"
   icon: "fas fa-info"
