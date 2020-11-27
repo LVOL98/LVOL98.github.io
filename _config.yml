@@ -8,12 +8,14 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: TBA
+title: LVOL
 
-tagline: TBA
+tagline: Programming, Martial Arts
 
 description: >-                        # used by seo meta and the atom feed
-  TBA
+  A personal site that showcases my two primary interests. 1: a showcase of 
+  various personal programming projects, which is also what I do for a living 
+  and 2: various articles about martial arts (more specifically Shinson Hapkido)
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
@@ -36,18 +38,14 @@ social:
     - https://twitter.com/LVOL_
     - https://github.com/LVOL98
     - https://www.linkedin.com/in/lukas-vinther-offenberg-7818a3125/
-    # - https://www.facebook.com/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+# google_site_verification: google_meta_tag_verification # change to your verification string
 
 #--------------------------
 
-
-# Only if your site type is GitHub Project sites and doesn't have a custom domain,
-# change below value to '/projectname'.
 baseurl: ''
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+# See http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Copenhagen
 
 google_analytics:
@@ -63,7 +61,7 @@ google_analytics:
 
 disqus:
   comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  shortname: ''    # See › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting, available values:
@@ -98,8 +96,7 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# DO NOT change this unless you're a Pro user on Jekyll and Web development,
-# or you think you're smart enough to change other relevant URLs within this template.
+# DO NOT change without proper preparation
 permalink: /posts/:title/
 
 defaults:

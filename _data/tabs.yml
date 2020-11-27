@@ -24,10 +24,10 @@
   url: archives
   icon: "fas fa-archive"
 -
-  name: "Business Card"
+  name: "Programming"
   path: tabs
-  icon: "fas fa-info"
-  url: "businessCard"
+  icon: "fas fa-cog"
+  url: "Programming"
 -
   name: "About"
   icon: "fas fa-info"
