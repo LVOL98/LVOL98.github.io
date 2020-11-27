@@ -1,11 +1,5 @@
 ---
 title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
 ---
 
 ## Hi
@@ -27,3 +21,8 @@ Various contact information:
 - If you're used to GitHub you can find me here: [LVOL98](https://github.com/LVOL98)
 - Otherwise you can find me on Twitter at: [LVOL_](https://twitter.com/LVOL_)
 - And finally tou can also just E-mail me at: lukas08@live.dk
+
+## Versioning
+
+V1.0 Initial Release 
+> @Author: Lukas Vinther Offenberg Larsen

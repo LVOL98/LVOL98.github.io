@@ -3,8 +3,17 @@ title: Programming
 
 # The page about programming
 # Lukas Vinther Offenberg Larsen
-# v1.0
-# 2020-11-17
+# v1.1
+# 2020-27-17
 ---
 
+## Personal programming projects
+
+### My Programming Business Card
+
 [Please click this text to visit the business card](https://lvol98.github.io/business_card/#/)
+
+## Versioning
+
+V1.0 Initial Release 
+> @Author: Lukas Vinther Offenberg Larsen
