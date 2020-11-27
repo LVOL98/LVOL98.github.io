@@ -66,7 +66,9 @@ The next chapter will try to show a methodology that will hopefully make this le
 
 ## The Methodology, Learning by subdivision
 
-Let's start by expressing it in algorithmic terms and then in a more understandable way
+### The algorithmic way
+
+Let's start by expressing it in algorithmic terms and then in a more understandable way. The basic idea is to look at the most essential part of any technique: the movement. Now all movements starts from the legs as the body can only lean without moving the legs, and leaning usually doesn't cause confusion in learning. After having defined the movements of the legs, the movements of the hands are defined. Alas the leg movements and the hand movements are combined and any rotations are dealt with. Now the algorithm
 
 ```python
 Decomposit the movement(legs, hands):
@@ -102,6 +104,28 @@ Perform the technique(Decomposition of the movement):
         if (legs not crossed):
             Turn head to the given direction
 ```
+
+### The simplification
+
+Now this might seem a bit overwhelming and very comprehensive and not very readable if you're not familiar with programming. The reason why this seems so overwhelming is that it has to take into account all possible inputs, but one could express this in three lines:
+
+1. What does the legs do
+2. What does the hands do
+3. Combine legs and hands with rotations
+
+By just having this in the back of the head some techniques becomes a lot easier to grasp, but this short explanation also abstract away some important observations, so a deep dive is needed.
+
+#### 1. What does the legs do
+
+By far the most important of the three as this can deal with rotations in techniques, which causes the most confusion when learning a new technique. During this phase the only thing one need to remember is:
+
+- What leg moved?
+- Where did it move to?
+- Did it cross the other leg?
+
+By noting this rotations can be dealt with later on, without even having to know if it's clockwise or counter clockwise. Also by first focusing on the leg movement, usually what does hand does comes more naturally as its movements are limited.
+
+### Example
 
 ## Abbreviations
 
