@@ -12,7 +12,7 @@ Math: true
 
 We are all good at talking about ourselves which often becomes boring and is completely irrelevant to the subject at hand. Hence this section will be rather short and to the point
 
-The author (me) is a second degree black belt (2. Dan) in the martial art of Shinson Hapkido (__*SSH*__), and have been a practitioner since childhood (to be honest I've lost track)
+The author (me) is a second degree black belt (2. Dan) in the martial art of Shinson Hapkido (__*SSH*__), and have been a practitioner since childhood (to be honest I've lost track of when I started)
 
 ## 'But why though'
 
@@ -22,7 +22,7 @@ On the off chance that someone finds these articles and wants to get in contact 
 
 ## To come
 
-Currently I'm writing the articles and none is done at the moment, but once they're eventually done, they will be linked below sorted into various topics
+Currently I'm writing the articles, and none is done at the moment, but once they're eventually done, they will be linked below sorted into various topics as well as in the categories menu on the left side
 
 ## Abbreviations
 
@@ -30,8 +30,8 @@ Currently I'm writing the articles and none is done at the moment, but once they
 
 ## Definitions
 
-\[Github\]: Is a versioning tool for software development. It common comparison is to google docs, but with a log to see who made which changes
+\[Github\]: Is a versioning tool for software development. A common comparison is to google docs, but with a log to see who made which changes
 
 ## Versioning
 
-V0.1 Initial Draft
+V0.2 Review Draft
