@@ -27,7 +27,7 @@
   name: "Programming"
   path: tabs
   icon: "fas fa-cog"
-  url: "businessCard"
+  url: "Programming"
 -
   name: "About"
   icon: "fas fa-info"
