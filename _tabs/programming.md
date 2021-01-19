@@ -1,5 +1,7 @@
 ---
-title: Programming
+Title: Programming
+icon: fas fa-cog
+order: 5
 
 # The page about programming
 # Lukas Vinther Offenberg Larsen
@@ -7,9 +9,9 @@ title: Programming
 # 2020-27-17
 ---
 
-## Personal programming projects
+# Personal programming projects
 
-### My Programming Business Card
+## My Programming Business Card#
 
 [Please click this text to visit the business card](https://lvol98.github.io/business_card/#/)
 
