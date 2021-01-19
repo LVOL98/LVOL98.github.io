@@ -13,7 +13,9 @@ order: 5
 
 ## My Programming Business Card
 
-[Please click this text to visit the business card](https://lvol98.github.io/business_card/#/)
+Temporarily out of order
+
+<!-- [Please click this text to visit the business card](https://lvol98.github.io/business_card/#/) -->
 
 ## Versioning
 
