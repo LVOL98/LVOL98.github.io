@@ -8,7 +8,17 @@ tags: [Martial Arts, Shinson Hapkido, Lessons, Stretching, Flexibility, Strength
 
 # Overview
 
-TODO
+A online lesson giving over Facebook via the Facebook Rooms functionality
+
+Focus was on gaining flexibility and increasing strength in the ‘small’ muscles that helps holding a kick in a high position, i.e. holding a kick near the face. Small WOD (Workout of the day) was also added to keep the students in shape during lockdown
+
+The lessons consisted of:
+
+1. Very short warm up
+2. Two short workouts
+3. Static stretch routine
+4. Dynamic Stretching
+5. 10 minuets AMRAP
 
 ## Warm Up
 
@@ -16,14 +26,14 @@ Very light, only to make sure that no one gets an injury from being too 'cold'
 
 ## Initial Small Strength Training
 
-- 'Bring SallyUp' with push up
+- 'Bring Sally Up' with push up (song: Flower by Moby)
 - Tabata Burpees
 
 ## Static Stretch - Using a Chair
 
 5 exercises of 60 seconds stretch, 10 seconds to move to the next exercise
 
-> Approximately 18-20 minuets
+> ca. 18-20 minuets
 
 ### Side Split
 
@@ -49,7 +59,7 @@ Very light, only to make sure that no one gets an injury from being too 'cold'
 - 3x10 repetitions with both legs of **slowly** holding a front kick and lifting the leg from one side of the chair, over the back, to the other side of the chair
 - (BONUS) 3x10 repetitions with both legs of **slowly** doing a back kick lifting the leg from one side of the chair to the other, over the base
 
-## AMRAP Ending
+## AMRAP (As Many Rounds As Possible) Ending
 
 > 10 minuets
 
@@ -63,5 +73,11 @@ As Many Rounds As Possible
 
 ## Notes
 
-- Shoe AMRAP on screen
-- Longer Stretches is very nice
+- The exercises of the AMRAP should be shown on the screen, as it can ve hard to remember
+- Some students finds doing longer stretches to be more effective
+
+## Versioning
+
+V1.0 Initial Release
+
+> @Author: Lukas Vinther Offenber Larsen
