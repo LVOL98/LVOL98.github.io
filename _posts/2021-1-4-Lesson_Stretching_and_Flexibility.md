@@ -31,14 +31,14 @@ Light warm up consisting of various kicks to initiate the hip, with some basic a
 ### Side split
 
 - Squat stretch (sit in a as deep as possible squat position and push your knees as far apart as possible)
-- Squatting leg out/side lunge to one side (see notes)
-- Squatting leg out/side lunge to the other side (see notes)
+- [Squatting leg out/side lunge to one side][SideLungeStretch] (or see: images under references)
+- [Squatting leg out/side lunge to the other side][SideLungeStretch] (or see: images under references)
 - Regular side split or frog stretch
 - Regular side split again
 
 ### Front split (one for each side)
 
-- Mermaid stretch (see notes)
+- [Mermaid stretch][MermaidStretch] (or see: images under references)
 - Lunge stretch with the knee resting at the floor (if it's too easy one can also lift the calf by using the same hand => if left leg is stretched behind then the left hand should be used)
 - From standing, both legs stretched and try to get the forehead to touch the knee
 - From standing, one leg bent and a little behind the other leg which is stretched and try to get the forehead to reach the knee
@@ -80,7 +80,10 @@ Now doing all of this in 60 minuets is quite tight, so doing fewer rounds or a v
 
 ## References
 
-### Pictures
+[SideLungeStretch]: /assets/img/stretches/Side Lunge Stretch.jpg
+[MermaidStretch]: /assets/img/stretches/Mermaid Stretch.jpg
+
+### Images
 
 #### Squatting leg out/side lunge
 
@@ -89,3 +92,15 @@ Now doing all of this in 60 minuets is quite tight, so doing fewer rounds or a v
 #### Mermaid stretch
 
 ![Mermaid-Stretch](/assets/img/stretches/Mermaid Stretch.jpg)
+
+## Versioning
+
+[V1.0 Initial Release](https://github.com/LVOL98/LVOL98.github.io/tree/f0255caf9c33f06de8e483973c7e5d579e86d0e4)
+
+> @Author: Lukas Vinther Offenber Larsen
+
+V1.1 Initial Release
+
+    Added image references and fixed small errors
+
+> @Author: Lukas Vinther Offenber Larsen

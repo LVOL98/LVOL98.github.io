@@ -1,7 +1,7 @@
 ---
 title: Lessons - Stretching and Flexibility
 Author: Lukas Vinther Offenberg Larsen
-date: 2021-1-4
+date: 2021-1-11
 categories: [Martial Arts, Lessons]
 tags: [Martial Arts, Shinson Hapkido, Lessons, Stretching, Flexibility, Strength, Kicks]
 ---
@@ -37,15 +37,15 @@ Very light, only to make sure that no one gets an injury from being too 'cold'
 
 ### Side Split
 
-- Side Lunge to one side
-- Side Lunge to the other side
+- [Side Lunge to one side][SideLungeStretch] (or see: images under references)
+- [Side Lunge to the other side][SideLungeStretch] (or see: images under references)
 - Side Split
 - Side Split and lean to one side
 - Side Split and lean to the other side
 
 ### Side Split - One For Each Side
 
-- The mermaid with the bend leg placed on the base of the chair (see picture in references) TODO: picture
+- The [mermaid][MermaidStretch] with the bend leg placed on the base of the chair (see picture in references)
 - One heel on the base of the chair, stretch that leg and try to get the forehead to the knee
 - The same but on the back of the chair (its highest point)
 - Front Split
@@ -76,8 +76,29 @@ As Many Rounds As Possible
 - The exercises of the AMRAP should be shown on the screen, as it can ve hard to remember
 - Some students finds doing longer stretches to be more effective
 
+## References
+
+[SideLungeStretch]: /assets/img/stretches/Side Lunge Stretch.jpg
+[MermaidStretch]: /assets/img/stretches/Mermaid Stretch.jpg
+
+### Images
+
+#### Side Lunge Stretch
+
+![Squatting-leg-out/side-lunge.stretch](/assets/img/stretches/Side Lunge Stretch.jpg)
+
+#### Mermaid Stretch
+
+![Mermaid-Stretch](/assets/img/stretches/Mermaid Stretch.jpg)
+
 ## Versioning
 
-V1.0 Initial Release
+[V1.0 Initial Release](https://github.com/LVOL98/LVOL98.github.io/tree/96ed29564c2ab3e559cf5e7c2aa83320bf2d5fe2)
+
+> @Author: Lukas Vinther Offenber Larsen
+
+V1.1 Initial Release
+
+    Added images and fixed leftover TODO's
 
 > @Author: Lukas Vinther Offenber Larsen
