@@ -7,25 +7,25 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: LVOL                            # the main title
+title: LVOL
 
-tagline: Programming, Martial Arts     # it will display as the sub-title
+tagline: Programming, Martial Arts
 
 description: >-                        # used by seo meta and the atom feed
   A personal site that showcases my two primary interests. 1: a showcase of 
   various personal programming projects, which is also what I do for a living 
   and 2: various articles about martial arts (more specifically Shinson Hapkido)
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+# Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://LVOL98.github.io'
 
-author: Lukas Vinther Offenberg Larsen  # change to your full name
+author: Lukas Vinther Offenberg Larsen
 
 github:
-  username: LVOL98                      # change to your github username
+  username: LVOL98
 
 twitter:
-  username: LVOL_                       # change to your twitter username
+  username: LVOL_
 
 social:
   name: Lukas Vinther Offenberg Larsen
@@ -35,6 +35,7 @@ social:
     - https://twitter.com/LVOL_
     - https://github.com/LVOL98
     - https://www.linkedin.com/in/lukas-vinther-offenberg-7818a3125/
+
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -75,7 +76,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:  # [light|dark]
+theme_mode:   # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
