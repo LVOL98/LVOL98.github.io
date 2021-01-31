@@ -9,6 +9,8 @@ Math: true
 
 # Overview
 
+A short workout shared with the local martial arts center (Dojang) to help people with some inspiration of light exercise
+
 ## The Workout - AMRAP (As Many Rounds As Possible)
 
 15 minuets of doing as many rounds of the following exercises
