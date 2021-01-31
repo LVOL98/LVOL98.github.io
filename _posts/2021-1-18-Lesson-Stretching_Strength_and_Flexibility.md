@@ -7,7 +7,7 @@ tags: [Martial Arts, Shinson Hapkido, Lessons, Stretching, Flexibility, Strength
 Math: true
 ---
 
-# Overview TODO
+# Overview
 
 A online lesson giving over Facebook via the Facebook Rooms functionality
 
@@ -88,3 +88,11 @@ Now doing all of this in 60 minuets is quite tight, so doing fewer rounds or a v
 #### Mermaid stretch
 
 ![Mermaid-Stretch](/assets/img/stretches/Mermaid Stretch.jpg)
+
+## Versioning
+
+V1.0 Initial Release
+
+> @Author: Lukas Vinther Offenber Larsen
+>
+> @Date: 18/1/2021
