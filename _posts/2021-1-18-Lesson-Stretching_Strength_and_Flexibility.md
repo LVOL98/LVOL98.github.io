@@ -11,9 +11,14 @@ Math: true
 
 A online lesson giving over Facebook via the Facebook Rooms functionality
 
-Focus was on gaining flexibility and increasing strength in the 'small' muscles that helps holding a kick in a high position, i.e. holding a kick near the face
+Focus was on gaining flexibility and increasing strength in the 'small' muscles that helps holding a kick in a high position, i.e. holding a kick near the face, while also adding in a small workout to maintain peoples physical form during the lockdown
 
-The lesson was divided into 3 parts, 1: warm up, 2: static stretching and 3: increasing 'small' muscle strength
+The lesson was divided as follows:
+
+1. Warmup with some balancing exercises
+2. A Stretching routine to maintain flexibility
+3. Dynamic stretching to increase flexibility and maintain strength in the 'small' muscles
+4. Final Workout (max amount of reps)
 
 ## Warm up
 
@@ -51,7 +56,7 @@ Combinations of various high kicks
 
 ### Front split (one for each side)
 
-- The mermaid
+- [The mermaid][Mermaid-Stretch]
 - Sitting with one leg bent, and the other one stretched out (TODO: see reference)
 - Same as above, but try to reach the leg with the hand over the head (TODO: see image)
 - Side Split
@@ -74,7 +79,7 @@ Now doing all of this in 60 minuets is quite tight, so doing fewer rounds or a v
 
 ## Notes
 
-- 18:00 is a bit too early 
+- 18:00 is a bit too early for people with kids
 
 ## References
 
