@@ -13,6 +13,8 @@ A short workout shared with the local martial arts center (Dojang) to help peopl
 
 ## The Workout - AMRAP (As Many Rounds As Possible)
 
+> ca. 15 minuets
+
 15 minuets of doing as many rounds of the following exercises
 
 - 5 Burpees
