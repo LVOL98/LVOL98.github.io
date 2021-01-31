@@ -16,6 +16,25 @@ Gyocha jahse stepping from side to side, maybe doing a punch with a hit meanwhil
 
 ## Warm Up
 
+## Static Stretch
+
+### Side Split
+
+1. The Butterfly
+2. The Frog
+3. Side Lunge Stretch One Side
+4. Side Lunge Stretch The Other Side
+5. Side Split
+
+## Front Split
+
+1. The Mermaid
+2. Sitting One Leg Stretch
+
+## Dynamic Stretch
+
+## Final Strength Workout
+
 ## Notes
 
 - The exercises of the AMRAP should be shown on the screen, as it can ve hard to remember
