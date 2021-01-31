@@ -8,6 +8,17 @@ tags: [Martial Arts, Shinson Hapkido, Lessons, Stretching, Flexibility, Strength
 
 # Overview
 
+A online lesson giving over Facebook via the Facebook Rooms functionality
+
+Focus was on gaining flexibility and increasing strength in the 'small' muscles that helps holding a kick in a high position, i.e. holding a kick near the face, while also adding in a small workout to maintain peoples physical form during the lockdown
+
+The lesson was divided as follows:
+
+1. Warmup with various stances (Jahse)
+2. A stretching routine with static stretches
+3. Dynamic Stretches to maintain strength
+4. Final workout
+
 ## Warm Up
 
 > ca. 10 minuets

@@ -68,7 +68,7 @@ As Many Rounds As Possible
 - 5 Burpees
 - 10 push ups
 - 10 back extension
-- Hold a back extension 10 seconds
+- Hold a back extension 30 seconds
 - 20 mountain climbers
 
 ## Notes
