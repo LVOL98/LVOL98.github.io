@@ -17,7 +17,7 @@ The lesson was divided as follows:
 1. Warmup with various stances (Jahse)
 2. A stretching routine with static stretches
 3. Dynamic Stretches to maintain strength
-4. Final workout
+4. Final workout (EMOM)
 
 ## Warm Up
 
@@ -67,11 +67,15 @@ Which is done for:
 2. Front Kick (Ap Chagi)
 3. Straight Back Kick (Dwid Chaolligi)
 
-## Final Strength Workout
+## Final Strength Workout EMOM (Every Minuet On The Minuet)
 
 > ca. 12 Minuets
 
-EMOM 12 minuets
+EMOM (every minuet on the minuet) 12 minuets
+
+meaning that in the first minuet one has to complete 5 burpees and can then take the rest of the minuet as a break, during the second minuet 10 pushups must be completed and then the rest of the minuet is a break, and so on.
+
+3 rounds of the following 4 exercises should be done (3x4 = 12)
 
 1. 5 Burpees
 2. 10 Pushups
