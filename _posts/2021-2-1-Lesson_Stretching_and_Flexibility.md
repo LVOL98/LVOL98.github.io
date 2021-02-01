@@ -84,6 +84,11 @@ meaning that in the first minuet one has to complete 5 burpees and can then take
 
 ## Notes
 
+- Streches also after you have warmed up
+- australske tyghøvninger
+- glute bridges
+- olympiske løft med chang bong
+
 ## References
 
 ### Images
