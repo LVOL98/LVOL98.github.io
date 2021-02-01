@@ -61,6 +61,8 @@ The General flow that is repeated for each side:
 - Hold the leg up and lift it as high as possible (like with side kick (Yop Chagi) hold the kick and lift the leg as high as possible, bring it down again without touching the ground. It's some small lifts)
 - Hold the leg for 10 seconds
 
+To round off 10-20 small lifts sideways, making an infinity sign etc. with various kicks (like second bullet point)
+
 Which is done for:
 
 1. Side Kick (Yop Chagi)
@@ -71,11 +73,13 @@ Which is done for:
 
 > ca. 12 Minuets
 
-EMOM (every minuet on the minuet) 12 minuets
+EMOM (every minuet on the minuet) 16 minuets
 
-meaning that in the first minuet one has to complete 5 burpees and can then take the rest of the minuet as a break, during the second minuet 10 pushups must be completed and then the rest of the minuet is a break, and so on.
+Meaning that in the first minuet one has to complete 5 burpees and can then take the rest of the minuet as a break, during the second minuet 10 pushups must be completed and then the rest of the minuet is a break, and so on.
 
-3 rounds of the following 4 exercises should be done (3x4 = 12)
+Also there's a lower and upper bound such that both people in shape and not can get som challenges during the workout
+
+4 rounds of the following 4 exercises should be done (4x4 = 16)
 
 1. 5 Burpees
 2. 10 Pushups
@@ -84,10 +88,10 @@ meaning that in the first minuet one has to complete 5 burpees and can then take
 
 ## Notes
 
-- Streches also after you have warmed up
-- australske tyghøvninger
-- glute bridges
-- olympiske løft med chang bong
+- Stretching exercises before and after more intense work
+- More exercises for the back
+    - glute bridges
+    - Olympic lifts with various objects like bo staff, a heavy book etc.
 
 ## References
 
