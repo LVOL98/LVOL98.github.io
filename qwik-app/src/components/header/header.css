@@ -1,7 +1,15 @@
 header {
   display: flex;
-  background: white;
+  justify-content: space-between;
+  position: fixed;
+  background: transparent;
   border-bottom: 10px;
+}
+
+header img {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 50%;
 }
 
 header .logo a {
