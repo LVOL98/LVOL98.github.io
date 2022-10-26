@@ -29,6 +29,9 @@ export default component$(() => {
           </li>
         </ul>
       </StandardCard>
+      <StandardCard>
+        Projects
+      </StandardCard>
     </div>
   );
 });
