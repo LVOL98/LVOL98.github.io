@@ -3,6 +3,12 @@ import type { DocumentHead } from '@builder.io/qwik-city';
 import StandardCard from '~/components/cards/standard-card';
 import TitleCatcher from '~/components/title-catcher/title-catcher';
 
+// export const experience = [
+//   {headline: 'Test1', body: 'test'},
+//   {headline: 'Test2', body: 'test'},
+//   {headline: 'Test3', body: 'test'},
+// ]
+
 export default component$(() => {
   return (
     <div class='center-column'>
@@ -30,8 +36,11 @@ export default component$(() => {
         </ul>
       </StandardCard>
       <StandardCard>
-        Projects
+        <h1>
+          Projects
+        </h1>
       </StandardCard>
+      {/* <Timeline items={experience} /> */}
     </div>
   );
 });
