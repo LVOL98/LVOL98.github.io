@@ -5,13 +5,13 @@ import Footer from '../components/footer/footer';
 export default component$(() => {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <main>
         <section>
           <Slot />
         </section>
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 });

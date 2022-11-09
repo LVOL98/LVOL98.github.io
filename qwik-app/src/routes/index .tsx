@@ -13,7 +13,8 @@ import TitleCatcher from '~/components/title-catcher/title-catcher';
 export default component$(() => {
   return (
     <div class='center-column'>
-      <TitleCatcher />
+      <h1>Coming Soon</h1>
+      {/* <TitleCatcher />
       <StandardCard>
         <h1>Quick Info</h1>
         <ul>
@@ -40,7 +41,7 @@ export default component$(() => {
         <ProjectCard title='Hikers App' description='Second year project @ITU' imagePath='../public/test.png' />
         <ProjectCard title="CRM System n' Scanner App" description='CRM develop for @CybCon' imagePath='../public/test.png' />
         <ProjectCard title='test' description='descriptions' imagePath='../public/test.png' />
-      </div>
+      </div> */}
       {/* <Timeline items={experience} /> */}
     </div>
   );
