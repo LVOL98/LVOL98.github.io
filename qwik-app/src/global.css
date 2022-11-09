@@ -20,6 +20,7 @@
   --qwik-light-purple: #ac7ff4;
   --qwik-dark-purple: #713fc2;
   --lvol-standard-padding: 10px;
+  --lvol-standard-margin: 10px;
   --lvol-standard-border-radius: 10px;
 }
 
@@ -140,4 +141,13 @@ a.mindblow:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.standard-flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: var(--lvol-standard-padding);
 }

@@ -1,5 +1,6 @@
 import { component$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
+import ProjectCard from '~/components/cards/project-card';
 import StandardCard from '~/components/cards/standard-card';
 import TitleCatcher from '~/components/title-catcher/title-catcher';
 
@@ -35,11 +36,11 @@ export default component$(() => {
           </li>
         </ul>
       </StandardCard>
-      <StandardCard>
-        <h1>
-          Projects
-        </h1>
-      </StandardCard>
+      <div class='standard-flex-row'>
+        <ProjectCard title='Hikers App' description='Second year project @ITU' imagePath='../public/test.png' />
+        <ProjectCard title="CRM System n' Scanner App" description='CRM develop for @CybCon' imagePath='../public/test.png' />
+        <ProjectCard title='test' description='descriptions' imagePath='../public/test.png' />
+      </div>
       {/* <Timeline items={experience} /> */}
     </div>
   );
