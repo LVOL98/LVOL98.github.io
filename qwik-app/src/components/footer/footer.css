@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: var(--lvol-standard-padding);
+}
+
+footer ul {
+    margin: 0;
+    padding: 3px 10px 0 0;
+    list-style: none;
+    flex: 1;
+    text-align: right;
+  }
+  
+footer li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+footer li img {
+    width: 25px;
+    height: 25px;
+    padding: var(--lvol-standard-padding);
+    filter: invert(1);
+}
+  
