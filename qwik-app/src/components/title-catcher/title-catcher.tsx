@@ -10,9 +10,12 @@ export default component$(() => {
         <h1>
             Lukas Vinther Offenberg
         </h1>
-        <h2>
+        <h3>
+          @LVOL / @LVOL_ / @LVOL98
+        </h3>
+        <h3>
             Programming - Martial Arts
-        </h2>
+        </h3>
     </section>
   );
 });

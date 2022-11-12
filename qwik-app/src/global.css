@@ -29,6 +29,7 @@ body {
   font-family: 'Poppins', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   color: var(--lvol-colour-6);
   /* padding: 20px 20px 40px 20px; */
+  min-height: 100vh;
 }
 
 main {
@@ -37,7 +38,12 @@ main {
   /* background-color: white; */
   /* border-radius: 5px; */
   /* box-shadow: 0px 0px 130px -50px var(--qwik-light-purple); */
+  min-height: 100vh;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 h1,
@@ -50,6 +56,7 @@ h2 {
 }
 
 section {
+  max-width: 1024px;
   /* padding: 20px; */
   /* border-bottom: 10px solid var(--qwik-dark-blue); */
 }
@@ -100,9 +107,10 @@ code {
 }
 
 footer {
-  /* padding: 15px;
+  margin-top: 20px;
+  padding: 15px;
   text-align: center;
-  font-size: 0.8em; */
+  font-size: 0.8em;
 }
 
 footer a {
