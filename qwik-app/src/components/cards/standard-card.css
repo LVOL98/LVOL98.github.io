@@ -7,4 +7,6 @@
     padding-right: var(--lvol-standard-padding);
     padding-bottom: var(--lvol-standard-padding);
     margin-bottom: var(--lvol-standard-padding);
+    border-top: 10px solid var(--lvol-colour-2);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }

@@ -13,9 +13,6 @@ export default component$(() => {
         <h3>
           @LVOL / @LVOL_ / @LVOL98
         </h3>
-        <h3>
-            Programming - Martial Arts
-        </h3>
     </section>
   );
 });
