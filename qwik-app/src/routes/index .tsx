@@ -61,7 +61,7 @@ export default component$(() => {
         <ProjectCard 
           title='Hikers App' 
           description='Second year project @ITU' 
-          imagePath='../public/images/hikers-app/logo.png' 
+          imagePath='../images/hikers-app/logo.png' 
           imgObjectFitOverride='contain'
           navTo='hikers_app' 
           />
@@ -70,7 +70,7 @@ export default component$(() => {
           description='CRM develop for @CybCon' 
           textColor='black' 
           imgObjectFitOverride='contain'
-          imagePath='/public/images/intrashare/intrashare-logo.png' 
+          imagePath='../images/intrashare/intrashare-logo.png' 
         />
       </div>
     </div>
