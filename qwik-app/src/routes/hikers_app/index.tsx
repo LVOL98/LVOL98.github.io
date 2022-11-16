@@ -6,13 +6,13 @@ export default component$(() => {
   let imagePaths = []
 
   for (let i = 1; i < 6; i++) {
-    imagePaths.push(`/assets/images/hikers-app/ha-${i}.png`)
+    imagePaths.push(`/public/images/hikers-app/ha-${i}.png`)
   }
 
   return (
     <div>
       <ProjectInfoSite 
-        logoPath='/assets/images/hikers-app/logo.png' 
+        logoPath='/public/images/hikers-app/logo.png' 
         title="Hiker's App" 
         collaborators={['@Yamatomichi', '@ITU']}
         imagePaths={imagePaths} 

@@ -6,7 +6,7 @@ export default component$(() => {
 
   return (
     <section>
-        <img src='../assets/me.jpg' />
+        <img src='../public/me.jpg' />
         <h1>
             Lukas Vinther Offenberg
         </h1>
