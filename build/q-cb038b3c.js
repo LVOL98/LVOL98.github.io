@@ -1,0 +1,1 @@
+import{M as t,C as o,_}from"./q-87e43197.js";const a=t(o(()=>_(()=>import("./q-f305a31b.js"),["build/q-f305a31b.js","build/q-87e43197.js","build/q-3bbce4cb.css"]),"s_IJFWOVOMv2k")),i={title:"LVOL"};export{a as default,i as head};
