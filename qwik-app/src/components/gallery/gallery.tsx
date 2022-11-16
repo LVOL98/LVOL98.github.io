@@ -12,7 +12,7 @@ export default component$((props: GalleryProps) => {
         <div class='gallery'>
             {props.imagePaths.map((imagePath) => 
                 <div class='img-container'> 
-                    <img src={imagePath} />
+                    <img id={imagePath} src={imagePath} />
                     {/* <img src={imagePath} class='img-popup' /> */}
                 </div>
             )}
