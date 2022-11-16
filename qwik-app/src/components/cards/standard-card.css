@@ -1,10 +1,12 @@
 .card-wrapper {
     width: 80%;
-    background-color: var(--lvol-colour-5);
+    background-color: var(--lvol-colour-2);
     color: var(--lvol-colour-1);
     border-radius: var(--lvol-standard-border-radius);
-    padding-left: var(--lvol-standard-padding);
-    padding-right: var(--lvol-standard-padding);
-    padding-bottom: var(--lvol-standard-padding);
-    margin-bottom: var(--lvol-standard-padding);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: var(--lvol-standard-padding);
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: left;
 }
