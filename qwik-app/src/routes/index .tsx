@@ -54,7 +54,7 @@ export default component$(() => {
           title='This Website' 
           description='Exploring New Javascript Framework: @Qwik' 
           textColor='black' 
-          imagePath='../public/images/qwik/qwik-logo.png' 
+          imagePath='../images/qwik/qwik-logo.png' 
           imgObjectFitOverride='contain'
           navTo='site' 
         />

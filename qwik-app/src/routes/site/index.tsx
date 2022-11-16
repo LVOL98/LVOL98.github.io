@@ -15,10 +15,10 @@ export default component$(() => {
         keywords={keywords}
       >
         <p>
-          Due to other work-related tasks I had to learn a react-like JavaScript framework. So, I thought why not update my personal website with the most interesting framework I find?
+          When deciding to make my personal website, I wanted to use a technology that was new and in a "framework family" I never had used before!
         </p>
         <p>
-          Here we are with Qwik, a html first framework focused providing fast time to interactive load time. This is achieved by 
+          Having never used a React-like framework, I decided to see if that "framework family" had any interesting thing to offer, where I found Qwik a "HTML first framework" offering fast time to interactivity
         </p>
       </ProjectInfoSite>
     </section>
