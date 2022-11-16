@@ -15,6 +15,11 @@ jobs:
         run: npm install
         working-directory: ./qwik-app
 
-      - name: build and deploy site
-        run: npm run deploy
+      - name: Build app
+        run: npm run predeploy
         working-directory: ./qwik-app
+
+      - name: Deploy to Github Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: ./qwik-app/dist # The folder the action should deploy.
