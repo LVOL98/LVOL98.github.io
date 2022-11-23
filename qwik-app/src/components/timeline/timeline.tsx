@@ -2,31 +2,31 @@ import { component$, useStylesScoped$ } from '@builder.io/qwik';
 import styles from './timeline.css?inline';
 
 export interface TimelineItemProps {
-    year: number,
-    title: string,
-    body: string,
-    imgPath?: string,
-    isLeft: boolean,
+  year: number,
+  title: string,
+  body: string,
 }
 
 interface TimelineProps {
-    items: Array<TimelineItemProps>;
+  items: Array<TimelineItemProps>;
 }
 
 export default component$((props: TimelineProps) => {
-    useStylesScoped$(styles);
+  useStylesScoped$(styles);
 
-    return (
-        <div class="timeline">
-            {props.items.map((item) => (
-                <div class={item.isLeft ? 'container left' : 'container right'}>
-                    <div class='content'>
-                        <h2>{item.year}</h2>
-                        <h3>{item.title}</h3>
-                        <p>{item.body}</p>
-                    </div>
-                </div>
-            ))}
-        </div>
-    );
+  return (
+    <section>
+      <div class='wrapper'>
+        <ul>
+          {props.items.map((item) => (
+            <li>
+              <h3>{item.title}</h3>
+              <p>{item.body}</p>
+              <div class='dot'></div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  );
 });
