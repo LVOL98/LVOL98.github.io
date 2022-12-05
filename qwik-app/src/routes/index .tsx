@@ -35,7 +35,7 @@ export default component$(() => {
             </tr>
             <tr>
               <td>👀 Interests</td>
-              <td>Programming, Crypto, Martial Arts</td>
+              <td>Programming, Martial Arts</td>
             </tr>
             <tr>
               <td>📚 Currently Reading</td>
@@ -70,7 +70,7 @@ export default component$(() => {
           description='CRM develop for @CybCon' 
           textColor='black' 
           imgObjectFitOverride='contain'
-          imagePath='../images/intrashare/intrashare-logo.png' 
+          imagePath='../images/IntraShare/intrashare-logo.png' 
         />
       </div>
     </div>
