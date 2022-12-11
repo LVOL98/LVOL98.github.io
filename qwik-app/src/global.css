@@ -44,6 +44,22 @@ main {
 
 section {
   max-width: 1024px;
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+}
+
+@keyframes slidein {
+  from {
+    opacity: 0%;
+    margin-bottom: 100%;
+  }
+  
+  to {
+    opacity: 100%;
+    margin-bottom: 0%;
+  }
 }
 
 h1 {
