@@ -1,5 +1,6 @@
 import { component$, useStylesScoped$ } from '@builder.io/qwik';
-import { QwikLogo } from '../icons/qwik';
+import { Link } from '@builder.io/qwik-city';
+import { Paths } from '~/shared/paths';
 import styles from './header.css?inline';
 
 export default component$(() => {
@@ -9,18 +10,11 @@ export default component$(() => {
     <header>
       <ul>
         <li>
-          <a>
-            CV
+          <a href={Paths.Home} class='welp' >
+            Home
           </a>
-        </li>
-        <li>
-          <a>
-            Programming
-          </a>
-        </li>
-        <li>
-          <a>
-            Martial Arts
+          <a href={Paths.Projects} class='welp' >
+            Projects
           </a>
         </li>
       </ul>

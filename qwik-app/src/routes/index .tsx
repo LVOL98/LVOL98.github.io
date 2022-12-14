@@ -1,8 +1,9 @@
 import { component$, useStylesScoped$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
-import ProjectCard from '~/components/cards/project-card';
+import ProjectList from '~/components/cards/projects/project-list';
 import StandardCard from '~/components/cards/standard-card';
 import TitleCatcher from '~/components/title-catcher/title-catcher';
+import { Paths } from '~/shared/paths';
 import styles from './index.css?inline';
 
 export default component$(() => {
@@ -48,31 +49,7 @@ export default component$(() => {
           </tbody>
         </table>
       </StandardCard>
-      <h1>Projects</h1>
-      <div class='standard-flex-row'>
-        <ProjectCard 
-          title='This Website' 
-          description='Exploring New Javascript Framework: @Qwik' 
-          textColor='black' 
-          imagePath='../images/qwik/qwik-logo.png' 
-          imgObjectFitOverride='contain'
-          navTo='site' 
-        />
-        <ProjectCard 
-          title='Hikers App' 
-          description='Second year project @ITU' 
-          imagePath='../images/hikers-app/logo.png' 
-          imgObjectFitOverride='contain'
-          navTo='hikers_app' 
-          />
-        <ProjectCard 
-          title="CRM System n' Scanner App" 
-          description='CRM develop for @CybCon' 
-          textColor='black' 
-          imgObjectFitOverride='contain'
-          imagePath='../images/intrashare/intrashare-logo.png' 
-        />
-      </div>
+      <ProjectList />
     </div>
   );
 });
