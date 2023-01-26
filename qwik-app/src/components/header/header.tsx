@@ -12,11 +12,11 @@ export default component$(() => {
     window:onScroll$={(e) => {
       const currentScrollValue = window.scrollY;
       // @ts-ignore - target is the document 
-      const header = e.target?.getElementById(headerId);
+      const header = e.target?.getElementById(headerId)
       if (currentScrollValue !== 0) {
-        header.classList.add('hidden');
+        header.classList.add('hidden')
       } else {
-        header.classList.remove('hidden');
+        header.classList.remove('hidden')
       }
     }}>
       <ul>
