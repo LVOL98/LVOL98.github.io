@@ -25,9 +25,9 @@ export default component$(() => {
         <ProjectCard
           title="CRM System n' Scanner App"
           description='CRM develop for @CybCon'
+          imagePath='../images/IntraShare/intrashare-logo.png'
           textColor='black'
           imgObjectFitOverride='contain'
-          imagePath='../images/intrashare/intrashare-logo.png'
         />
       </div>
     </div>
