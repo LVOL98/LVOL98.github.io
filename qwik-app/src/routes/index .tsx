@@ -35,7 +35,7 @@ export default component$(() => {
             </tr>
             <tr>
               <td>👀 Interests</td>
-              <td>Programming, Crypto, Martial Arts</td>
+              <td>Programming, Martial Arts</td>
             </tr>
             <tr>
               <td>📚 Currently Reading</td>

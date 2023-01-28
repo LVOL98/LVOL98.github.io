@@ -12,7 +12,7 @@ export default component$(() => {
   return (
     <div>
       <ProjectInfoSite 
-        logoPath='/images/hikers-app/logo.png' 
+        logoPath='../images/hikers-app/logo.png' 
         title="Hiker's App" 
         collaborators={['@Yamatomichi', '@ITU']}
         imagePaths={imagePaths} 
