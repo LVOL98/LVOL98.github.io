@@ -4,6 +4,7 @@ import Header from './components/header/header';
 import { RouterHead } from './components/router-head/router-head';
 
 import './global.css';
+import GoToTopButton from './components/go_to_top_button/go-to-top-button';
 
 export default component$(() => {
   /**
@@ -22,6 +23,7 @@ export default component$(() => {
         <Header />
         <RouterOutlet />
         <ServiceWorkerRegister />
+        <GoToTopButton />
       </body>
     </QwikCity>
   );
