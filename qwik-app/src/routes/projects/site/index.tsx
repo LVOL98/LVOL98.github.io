@@ -8,7 +8,7 @@ export default component$(() => {
   return (
     <section>
       <ProjectInfoSite 
-        logoPath='../images/qwik/qwik-logo.png'
+        logoPath='/images/qwik/qwik-logo.png'
         title='A Personal Website, With Qwik'
         imagePaths={['']}
         keywords={keywords}
