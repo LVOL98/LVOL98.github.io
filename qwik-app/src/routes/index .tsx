@@ -14,7 +14,7 @@ export default component$(() => {
       <TitleCatcher />
       <h1>Hi and welcome</h1>
       <p>This is my personal, CV, website where I showcase what I've done throughout the years. Please, have a look around :D</p>
-      <StandardCard title='Quick Info' >
+      {/* <StandardCard title='Quick Info' >
         <table>
           <tbody>
             <tr>
@@ -48,7 +48,7 @@ export default component$(() => {
             </tr>
           </tbody>
         </table>
-      </StandardCard>
+      </StandardCard> */}
       <ProjectList />
     </div>
   );
