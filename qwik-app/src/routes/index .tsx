@@ -1,9 +1,8 @@
 import { component$, useStylesScoped$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
 import ProjectList from '~/components/cards/projects/project-list';
-import StandardCard from '~/components/cards/standard-card';
+// import StandardCard from '~/components/cards/standard-card';
 import TitleCatcher from '~/components/title-catcher/title-catcher';
-import { Paths } from '~/shared/paths';
 import styles from './index.css?inline';
 
 export default component$(() => {
@@ -49,6 +48,7 @@ export default component$(() => {
           </tbody>
         </table>
       </StandardCard> */}
+      <h1>Projects</h1>
       <ProjectList />
     </div>
   );

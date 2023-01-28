@@ -1,31 +1,43 @@
-import { component$, useSignal, useStylesScoped$ } from '@builder.io/qwik';
-import { Link } from '@builder.io/qwik-city';
+import { component$, useStylesScoped$ } from '@builder.io/qwik';
+import { useLocation } from '@builder.io/qwik-city';
 import { Paths } from '~/shared/paths';
 import styles from './header.css?inline';
 
 export default component$(() => {
   useStylesScoped$(styles);
-  const headerId = 'lvol-header'
+  const location = useLocation()
+
+  const calculateIfSelectedPage = (page: string) => {
+    if (page == Paths.Projects) {
+      return location.pathname.includes(page) ? 'selected-header' : ''
+    } else if (location.pathname === page) {
+      return 'selected-header'
+    } else {
+      return ''
+    }
+  }
 
   return (
-    <header id={headerId} 
-    window:onScroll$={(e) => {
-      const currentScrollValue = window.scrollY;
-      // @ts-ignore - target is the document 
-      const header = e.target?.getElementById(headerId)
-      if (currentScrollValue !== 0) {
-        header.classList.add('hidden')
-      } else {
-        header.classList.remove('hidden')
-      }
-    }}>
+    <header
+      window:onScroll$={(event, element) => {
+        let currentScrollValue = window.scrollY;
+
+        if (currentScrollValue !== 0) {
+          element.classList.add('hidden')
+        } else {
+          element.classList.remove('hidden')
+        }
+      }}>
       <ul>
         <li>
-          <a href={Paths.Home} class='welp' >
+          <a id={Paths.Home} href={Paths.Home} class={calculateIfSelectedPage(Paths.Home)} >
             Home
           </a>
-          <a href={Paths.Projects} class='welp' >
+          <a id={Paths.Projects} href={Paths.Projects} class={calculateIfSelectedPage(Paths.Projects)} >
             Projects
+          </a>
+          <a id={Paths.Contact} href={Paths.Contact} class={calculateIfSelectedPage(Paths.Contact)} >
+            Contact
           </a>
         </li>
       </ul>
