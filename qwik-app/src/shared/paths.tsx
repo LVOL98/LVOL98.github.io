@@ -3,4 +3,5 @@ export const enum Paths {
     Site = '/site',
     HikersApp = '/hikers_app',
     Projects = '/projects',
+    Contact = '/contact',
 }

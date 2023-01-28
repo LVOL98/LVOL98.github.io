@@ -6,7 +6,6 @@ export default component$(() => {
 
   return (
     <div>
-      <h1>Projects</h1>
       <div class='standard-flex-row'>
         <ProjectCard
           title='This Website'

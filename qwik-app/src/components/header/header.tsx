@@ -1,5 +1,4 @@
-import { component$, useSignal, useStylesScoped$ } from '@builder.io/qwik';
-import { Link } from '@builder.io/qwik-city';
+import { component$, useStylesScoped$ } from '@builder.io/qwik';
 import { Paths } from '~/shared/paths';
 import styles from './header.css?inline';
 
@@ -9,6 +8,11 @@ export default component$(() => {
 
   return (
     <header id={headerId} 
+    window:onLoad$={(event, element) => { 
+      let selectedPage = document.getElementById(window.location.pathname)
+
+      selectedPage?.classList.add('selected-header')
+     }}
     window:onScroll$={(e) => {
       const currentScrollValue = window.scrollY;
       // @ts-ignore - target is the document 
@@ -21,11 +25,14 @@ export default component$(() => {
     }}>
       <ul>
         <li>
-          <a href={Paths.Home} class='welp' >
+          <a id={Paths.Home} href={Paths.Home} >
             Home
           </a>
-          <a href={Paths.Projects} class='welp' >
+          <a id={Paths.Projects} href={Paths.Projects} >
             Projects
+          </a>
+          <a id={Paths.Contact} href={Paths.Contact} >
+            Contact
           </a>
         </li>
       </ul>

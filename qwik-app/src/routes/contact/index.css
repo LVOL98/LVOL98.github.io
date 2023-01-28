@@ -1,0 +1,7 @@
+img {
+    width: 25px;
+    height: 25px;
+    padding: var(--lvol-standard-padding);
+    filter: invert(1);
+}
+  
