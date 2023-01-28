@@ -1,6 +1,5 @@
 import { component$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
-import { QwikLogo } from '~/components/icons/qwik';
 import ProjectInfoSite from '~/components/project_info_site/project-info-site';
 
 export default component$(() => {
@@ -9,7 +8,7 @@ export default component$(() => {
   return (
     <section>
       <ProjectInfoSite 
-        logoPath='/public/images/qwik/qwik-logo.png'
+        logoPath='/images/qwik/qwik-logo.png'
         title='A Personal Website, With Qwik'
         imagePaths={['']}
         keywords={keywords}
@@ -24,7 +23,3 @@ export default component$(() => {
     </section>
   );
 });
-
-export const head: DocumentHead = {
-  title: 'LVOL',
-};
