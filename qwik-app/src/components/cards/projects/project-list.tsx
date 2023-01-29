@@ -11,21 +11,21 @@ export default component$(() => {
           title='This Website'
           description='Exploring New Javascript Framework: @Qwik'
           textColor='black'
-          imagePath='../images/qwik/qwik-logo.png'
+          imagePath='/images/qwik/qwik-logo.png'
           imgObjectFitOverride='contain'
           navTo={Paths.Site}
         />
         <ProjectCard
           title='Hikers App'
           description='Second year project @ITU'
-          imagePath='../images/hikers-app/logo.png'
+          imagePath='/images/hikers-app/logo.png'
           imgObjectFitOverride='contain'
           navTo={Paths.HikersApp}
         />
         <ProjectCard
           title="CRM System n' Scanner App"
           description='CRM develop for @CybCon'
-          imagePath='../images/IntraShare/intrashare-logo.png'
+          imagePath='/images/IntraShare/intrashare-logo.png'
           textColor='black'
           imgObjectFitOverride='contain'
         />
