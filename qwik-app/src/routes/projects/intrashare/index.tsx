@@ -44,5 +44,5 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: "Hiker's App",
+  title: 'IntraShare',
 };
