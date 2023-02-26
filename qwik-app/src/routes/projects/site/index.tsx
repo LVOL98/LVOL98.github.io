@@ -23,3 +23,7 @@ export default component$(() => {
     </section>
   );
 });
+
+export const head: DocumentHead = {
+  title: 'Site - Qwik',
+};

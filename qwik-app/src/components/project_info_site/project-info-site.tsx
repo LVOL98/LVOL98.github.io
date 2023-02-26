@@ -34,7 +34,3 @@ export default component$((props: ProjectInfoSiteProps) => {
     </div>
   );
 });
-
-export const head: DocumentHead = {
-  title: 'LVOL',
-};
