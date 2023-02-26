@@ -1,7 +1,7 @@
 import { component$, Slot, useStylesScoped$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
 import { QwikLogo } from '~/components/icons/qwik';
-import Gallery from '../gallery/gallery';
+import MasonryGallery from '../masonry_gallery/masonry_gallery';
 import styles from './project-info-site.css?inline';
 
 interface ProjectInfoSiteProps {
@@ -30,7 +30,7 @@ export default component$((props: ProjectInfoSiteProps) => {
         )}
       </div>
       {/* <p>{props.description}</p> */}
-      <Gallery imagePaths={props.imagePaths} />
+      <MasonryGallery imagePaths={props.imagePaths} />
     </div>
   );
 });

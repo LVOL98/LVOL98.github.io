@@ -95,6 +95,10 @@ footer {
   gap: var(--lvol-standard-padding);
 }
 
+.standard-transition-animation {
+  transition-duration: 0.5s;
+}
+
 /* Scroll bar */
 ::-webkit-scrollbar {
   width: 5px;
