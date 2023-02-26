@@ -7,10 +7,15 @@ export default component$(() => {
 
   return (
     <section>
-      <p>Want to get in touch?</p>
-      <p>Need a developer for a job, freelance gig, a short chat or anything else, then feel free to reach out!</p>
-      <p>If you manage to find my email, then feel free to contact me there otherwise you can try any of my social media</p>
-
+      <p>
+        Looking to get in touch?
+      </p>
+      <p>
+        Whether you're looking for a developer for a job or freelance opportunity, or just want to have a chat, don't hesitate to reach out!
+      </p>
+      <p>
+        If you have my email, feel free to drop me a message there. If not, you can also connect with me on any of my social media platforms.
+      </p>
       <div class='standard-flex-row'>
         <a href='https://github.com/LVOL98'>
           <img src='/svg/github.svg' />
