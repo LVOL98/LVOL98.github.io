@@ -1,21 +1,21 @@
 a {
-    color: var(--lvol-colour-1);
+  color: var(--lvol-colour-1);
 }
 
 table {
-    width: 100%;
-    text-align: left;
+  width: 100%;
+  text-align: left;
 }
 
 td {
-    vertical-align: top;
+  vertical-align: top;
 }
 
 tr td:nth-child(1) {
-    width: 30%;
-    font-weight: bold;
+  width: 30%;
+  font-weight: bold;
 }
 
 tr td:nth-child(2) {
-    width: 70%;
+  width: 70%;
 }

@@ -14,7 +14,7 @@ header {
 
 .hidden {
   opacity: 0%;
-  transition-duration: .5s;
+  transition-duration: 0.5s;
   transition-delay: 0s;
 }
 
