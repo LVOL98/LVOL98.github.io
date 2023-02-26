@@ -4,4 +4,5 @@ export const enum Paths {
     HikersApp = '/projects/hikers_app',
     Projects = '/projects',
     Contact = '/contact',
+    IntraShare = '/projects/intrashare',
 }

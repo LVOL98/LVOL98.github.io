@@ -1,5 +1,5 @@
 import { component$ } from '@builder.io/qwik';
-import type { DocumentHead } from '@builder.io/qwik-city';
+import { DocumentHead, Link } from '@builder.io/qwik-city';
 import ProjectInfoSite from '~/components/project_info_site/project-info-site';
 
 export default component$(() => {
@@ -11,21 +11,33 @@ export default component$(() => {
 
   return (
     <div>
-      <ProjectInfoSite 
-        logoPath='/images/hikers-app/logo.png' 
-        title="Hiker's App" 
-        collaborators={['@Yamatomichi', '@ITU']}
-        imagePaths={imagePaths} 
+      <ProjectInfoSite
+        logoPath='/images/hikers-app/logo.png'
+        title="Hiker's App"
+        collaborators={[
+          { name: '@Yamatomichi', link: 'https://www.yamatomichi.com/en/' }, 
+          { name: '@ITU', link: 'https://www.itu.dk/' },
+        ]}
+        imagePaths={imagePaths}
         keywords={['Flutter', 'Firebase', 'Large Teams', 'Remote Collaboration', 'Agile development', 'SCRUM']}
       >
-        <p>During our second year project <a href='https://www.itu.dk'>@ITU</a> we collaborated with the Japanese hiking clothes company <a href='https://www.yamatomichi.com/en/'>@Yamatomichi</a> in developing a mobile app in Flutter</p>
-
-        <p>The app was a mismatch of Facebook Groups and Facebook Events. A user could create an hike even and send invitation out to other hikers on the app, or create an event everyone could sign up for. Several ways of filtering events was provided to the users, as well as a "create a pack list" to show people what they needed to bring</p>
+        <p>
+          During our second-year project at <Link href='www.ITU.dk'>@ITU</Link>, we had the exciting opportunity to collaborate with the Japanese hiking clothes company, <Link href='https://www.yamatomichi.com/en/'>@Yamatomichi</Link>. Our objective was to develop a mobile app in Flutter that would enhance the hiking experience for users.
+        </p>
+        <p>
+          Our team conceptualized an app that combined the best features of Facebook Groups and Facebook Events. The app allowed users to create and organize hiking events, and invite other hikers to join. Additionally, users could create public events where anyone could sign up to participate.
+        </p>
+        <p>
+          To make the app more user-friendly, we incorporated various filters that enabled users to search for events based on their location, difficulty level, and other criteria. Furthermore, we added a unique feature that allowed users to create a pack list of necessary items for the hike, making it easier for hikers to prepare for their adventure.
+        </p>
+        <p>
+          Overall, our collaboration with <Link href='https://www.yamatomichi.com/en/'>@Yamatomichi</Link> was a success, resulting in a user-friendly mobile app.
+        </p>
       </ProjectInfoSite>
     </div>
   );
 });
 
 export const head: DocumentHead = {
-  title: 'LVOL',
+  title: "Hiker's App",
 };

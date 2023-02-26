@@ -21,11 +21,11 @@
     "predeploy": "npm run build && npm run ssg",
     "preview": "qwik build preview && vite preview --open",
     "ssg": "node server/entry.static",
-    "start": "vite --open --mode ssr",
+    "start": "vite --open --mode ssr --host",
     "qwik": "qwik"
   },
   "devDependencies": {
-    "@builder.io/qwik": "0.11.1",
+    "@builder.io/qwik": "^0.18.1",
     "@builder.io/qwik-city": "0.0.112",
     "@types/eslint": "8.4.6",
     "@types/node": "latest",
