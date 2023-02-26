@@ -1,38 +1,43 @@
-
-ul, li{
+ul,
+li {
   list-style: none;
   padding: 0;
 }
 
-p, h1, h2, h3, h4, h5 {
-    color: black;
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: black;
 }
 
-.wrapper{
+.wrapper {
   background: #eaf6ff;
   padding: 2rem;
   border-radius: 15px;
   max-width: 800px;
 }
 
-.sessions{
+.sessions {
   margin-top: 2rem;
   border-radius: 12px;
   position: relative;
 }
 
 li {
-    border-left: 2px solid black;
-    padding-left: var(--lvol-standard-padding);
-} 
+  border-left: 2px solid black;
+  padding-left: var(--lvol-standard-padding);
+}
 
 /* .dot */
 li::after {
-    content: '';
-    width: 15px;
-    height: 15px;
-    border-radius: 50%;
-    background-color: black;
-    position: absolute;
-    left: 500px;
+  content: "";
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: black;
+  position: absolute;
+  left: 500px;
 }

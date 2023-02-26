@@ -1,18 +1,21 @@
-import { component$, useStylesScoped$ } from '@builder.io/qwik';
-import type { DocumentHead } from '@builder.io/qwik-city';
-import ProjectList from '~/components/cards/projects/project-list';
+import { component$, useStylesScoped$ } from "@builder.io/qwik";
+import type { DocumentHead } from "@builder.io/qwik-city";
+import ProjectList from "~/components/cards/projects/project-list";
 // import StandardCard from '~/components/cards/standard-card';
-import TitleCatcher from '~/components/title-catcher/title-catcher';
-import styles from './index.css?inline';
+import TitleCatcher from "~/components/title-catcher/title-catcher";
+import styles from "./index.css?inline";
 
 export default component$(() => {
   useStylesScoped$(styles);
 
   return (
-    <div class='center-column'>
+    <div class="center-column">
       <TitleCatcher />
       <h1>Hi and welcome</h1>
-      <p>This is my personal, CV, website where I showcase what I've done throughout the years. Please, have a look around :D</p>
+      <p>
+        This is my personal, CV, website where I showcase what I've done
+        throughout the years. Please, have a look around :D
+      </p>
       {/* <StandardCard title='Quick Info' >
         <table>
           <tbody>
@@ -55,5 +58,5 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'LVOL',
+  title: "LVOL",
 };

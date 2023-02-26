@@ -1,12 +1,16 @@
 .card-wrapper {
-    width: 80%;
-    background-color: var(--lvol-colour-2);
-    color: var(--lvol-colour-1);
-    border-radius: var(--lvol-standard-border-radius);
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    padding: var(--lvol-standard-padding);
+  width: 80%;
+  background-color: var(--lvol-colour-2);
+  color: var(--lvol-colour-1);
+  border-radius: var(--lvol-standard-border-radius);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: var(--lvol-standard-padding);
 }
 
-h1, h2, h3, h4, h5 {
-    text-align: left;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: left;
 }

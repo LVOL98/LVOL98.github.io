@@ -11,7 +11,7 @@ button {
   background-color: var(--lvol-colour-1);
   padding: var(--lvol-standard-padding);
   transition-duration: 0.5s;
-  transition-delay: .5s;
+  transition-delay: 0.5s;
 }
 
 button img {

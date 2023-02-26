@@ -1,5 +1,5 @@
-import { component$, useStylesScoped$ } from '@builder.io/qwik';
-import styles from './footer.css?inline';
+import { component$, useStylesScoped$ } from "@builder.io/qwik";
+import styles from "./footer.css?inline";
 
 export default component$(() => {
   useStylesScoped$(styles);
@@ -9,18 +9,18 @@ export default component$(() => {
       <p>Lukas Vinther Offenberg</p>
       <ul>
         <li>
-          <a href='https://github.com/LVOL98'>
-            <img src='/svg/github.svg' />
+          <a href="https://github.com/LVOL98">
+            <img src="/svg/github.svg" />
           </a>
         </li>
         <li>
-          <a href='https://www.linkedin.com/in/lukas-vinther-offenberg-7818a3125/'>
-            <img src='/svg/linkedin.svg' />
+          <a href="https://www.linkedin.com/in/lukas-vinther-offenberg-7818a3125/">
+            <img src="/svg/linkedin.svg" />
           </a>
         </li>
         <li>
-          <a href='https://twitter.com/LVOL_'>
-            <img src='/svg/twitter.svg' />
+          <a href="https://twitter.com/LVOL_">
+            <img src="/svg/twitter.svg" />
           </a>
         </li>
       </ul>
