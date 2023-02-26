@@ -28,6 +28,7 @@ export default component$(() => {
           imagePath='/images/IntraShare/intrashare-logo.png'
           textColor='black'
           imgObjectFitOverride='contain'
+          navTo={Paths.IntraShare}
         />
       </div>
     </div>
