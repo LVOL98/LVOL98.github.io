@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "qwik-app"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"github.copilot"
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
