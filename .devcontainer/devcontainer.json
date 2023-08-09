@@ -1,0 +1,25 @@
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {},
+		"ghcr.io/devcontainers-contrib/features/npm-package:1": {},
+		"ghcr.io/jayree/devcontainer-features/npm-registry:1": {}
+	},
+	"runArgs": [
+		"--name=lvol98.github.io"
+	],
+	"postCreateCommand": "cd qwik-app ; npm install ; npm install vite",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"alefragnani.Bookmarks",
+				"dbaeumer.vscode-eslint",
+				"GitHub.copilot-chat",
+				"GitHub.copilot-labs",
+				"GitHub.copilot-nightly",
+				"GitHub.github-vscode-theme"
+			]
+		}
+	}
+}
