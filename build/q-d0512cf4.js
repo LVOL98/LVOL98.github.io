@@ -1,0 +1,1 @@
+import{V as t,U as e,_}from"./q-734b3c56.js";const s=t(e(()=>_(()=>import("./q-1bc8ff7d.js"),["build/q-1bc8ff7d.js","build/q-3eefa298.js","build/q-734b3c56.js","build/q-73154a87.js"]),"s_IyPT50v1a7g")),a={title:"Hiker's App"};export{s as default,a as head};

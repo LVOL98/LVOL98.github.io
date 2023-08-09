@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://qwik.builder.io/</loc></url>
+<url><loc>https://qwik.builder.io/projects</loc></url>
+<url><loc>https://qwik.builder.io/projects/hikers_app</loc></url>
 <url><loc>https://qwik.builder.io/contact</loc></url>
 <url><loc>https://qwik.builder.io/cv</loc></url>
 <url><loc>https://qwik.builder.io/projects/intrashare</loc></url>
 <url><loc>https://qwik.builder.io/projects/site</loc></url>
-<url><loc>https://qwik.builder.io/projects</loc></url>
-<url><loc>https://qwik.builder.io/projects/hikers_app</loc></url>
 </urlset>
