@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "qwik-app"
+		},
+		{
+			"path": "terraform"
 		}
 	],
 	"settings": {},
