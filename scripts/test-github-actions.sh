@@ -1,14 +1,5 @@
 secretFile="./config/nektos-act.secrets"
 
-# Check if jq is installed, if not install it
-if ! command -v jq &> /dev/null
-then
-    echo "jq could not be found"
-    echo "Installing jq"
-    sudo apt-get install jq
-    echo "jq installed"
-fi
-
 if ! command -v act &> /dev/null
 then
     echo "act could not be found, please install before continuing"
