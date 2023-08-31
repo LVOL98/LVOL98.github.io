@@ -15,12 +15,10 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"alefragnani.Bookmarks",
 				"dbaeumer.vscode-eslint",
 				"GitHub.copilot-chat",
 				"GitHub.copilot-labs",
 				"GitHub.copilot-nightly",
-				"GitHub.github-vscode-theme",
 				"ms-vscode.vscode-node-azure-pack",
 				"hashicorp.terraform"
 			]

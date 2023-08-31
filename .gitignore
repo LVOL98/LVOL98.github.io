@@ -1,2 +1,5 @@
 # Development
 node_modules
+
+/config/*
+
