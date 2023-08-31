@@ -4,21 +4,23 @@
 	"features": {
 		"ghcr.io/devcontainers/features/node:1": {},
 		"ghcr.io/devcontainers-contrib/features/npm-package:1": {},
-		"ghcr.io/jayree/devcontainer-features/npm-registry:1": {}
+		"ghcr.io/jayree/devcontainer-features/npm-registry:1": {},
+		"ghcr.io/devcontainers/features/azure-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/terraform-asdf:2": {}
 	},
 	"runArgs": [
 		"--name=lvol98.github.io"
 	],
-	"postCreateCommand": "cd qwik-app ; npm install ; npm install vite",
+	"postCreateCommand": "bash scripts/setup-container.sh",
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"alefragnani.Bookmarks",
 				"dbaeumer.vscode-eslint",
 				"GitHub.copilot-chat",
 				"GitHub.copilot-labs",
 				"GitHub.copilot-nightly",
-				"GitHub.github-vscode-theme"
+				"ms-vscode.vscode-node-azure-pack",
+				"hashicorp.terraform"
 			]
 		}
 	}

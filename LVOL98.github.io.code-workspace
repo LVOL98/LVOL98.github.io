@@ -5,12 +5,16 @@
 		},
 		{
 			"path": "qwik-app"
+		},
+		{
+			"path": "terraform"
 		}
 	],
 	"settings": {},
 	"extensions": {
 		"recommendations": [
-			"github.copilot"
+			"github.copilot",
+			"github.vscode-github-actions"
 		]
 	},
 	"launch": {
